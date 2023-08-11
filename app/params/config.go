@@ -10,7 +10,7 @@ import (
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 )
 
-const (
+const (app/params/config.go
 	HumanCoinUnit = "sei"
 	BaseCoinUnit  = "usei"
 	UseiExponent  = 6
